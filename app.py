@@ -1,1 +1,1 @@
-print("mr azhar good recommendation")
+print("mr azhar will give good recommendation")
